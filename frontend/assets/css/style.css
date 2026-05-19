@@ -2130,3 +2130,29 @@ button{
         text-align: center;
     }
 }
+/* =========================
+   STUDENT REGISTRATION
+========================= */
+
+#register .feedback-form {
+    max-width: 800px;
+}
+
+#register select,
+#register input,
+#register textarea {
+    background: #f8fafc;
+}
+
+#register .btn-primary {
+    width: 100%;
+    justify-content: center;
+}
+
+#register .feedback-icon {
+    background: linear-gradient(135deg, #004080, #0066cc);
+}
+
+#register textarea {
+    resize: vertical;
+}
